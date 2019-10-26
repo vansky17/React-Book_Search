@@ -1,0 +1,17 @@
+.field {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.field label,
+.field input,
+.field button {
+  margin:.5em;
+}
+.search-bar {
+  background: #ababab;
+}
+.field label {
+  font-size: 2em;
+}
